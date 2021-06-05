@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">UTSPraktik-IF1-10118017-AgungNurhamidan</string>
+    <string name="judul_pengisian_data">Form Pengisian Data</string>
+    <string name="judul_info">Info</string>
+    <string name="info_value">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="nik">NIK</string>
+    <string name="nik_value">7323456778941234</string>
+    <string name="harus_diisi">• Harus Diisi</string>
+    <string name="nama">Nama </string>
+    <string name="nama_value">Mohammad Reksa</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="tanggal_lahir_value">2 November 1993</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="hubungan_dg_anda">Hubungan Dengan Anda</string>
+    <string name="orang_tua">Orangtua</string>
+    <string name="suami_atau_istri">Suami/Istri</string>
+    <string name="anak">Anak</string>
+    <string name="kerabat_lainnya">Kerabat Lainnya</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="judul_cek_kembali">Cek Kembali Isian Data</string>
+    <string name="simpan">Simpan</string>
+    <string name="ubah">Ubah</string>
+    <string name="berhasil_disimpan">Berhasil Disimpan</string>
+    <string name="terima_kasih">Terima kasih, laporan Anda membantu kami dalam melakukan penanganan kasus secara tepat.</string>
+    <string name="ok">Ok</string>
 </resources>
